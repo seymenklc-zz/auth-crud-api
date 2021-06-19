@@ -1,3 +1,3 @@
 # auth-crud-api
 
-CURD operations with auth integrated
+CRUD operations with auth integrated
